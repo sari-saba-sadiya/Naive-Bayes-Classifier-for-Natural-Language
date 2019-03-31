@@ -9,7 +9,9 @@ This assignment will walk you through reproducing some results achieved by Dr Li
 
 Contents:
   |-> trainData : training data for the Bayesian Network.
+  
   |-> testData : testing data for the Bayesian Network.
+  
   |-> cse440Bayes.pdf : The assignment guide
 
 To view the code use: https://nbviewer.jupyter.org/github/sari-saba-sadiya/Naive-Bayes-Classifier-for-Natural-Language/blob/master/naiveBayesCensor.ipynb
