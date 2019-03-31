@@ -8,8 +8,8 @@ Naive Bayes Classifiers are a powerful tools that leverage Bayesian probability 
 This assignment will walk you through reproducing some results achieved by Dr Lillian Lee at the early 2000 using Naive Bayes classifiers.
 
 Contents:\n
-  |-> trainData : training data for the Bayesian Network.\n
-  |-> testData : testing data for the Bayesian Network.\n
-  |-> cse440Bayes.pdf : The assignment guide.\n
+  |-> trainData : training data for the Bayesian Network.    
+  |-> testData : testing data for the Bayesian Network.    
+  |-> cse440Bayes.pdf : The assignment guide.    
 
 To view the code use: https://nbviewer.jupyter.org/github/sari-saba-sadiya/Naive-Bayes-Classifier-for-Natural-Language/blob/master/naiveBayesCensor.ipynb
